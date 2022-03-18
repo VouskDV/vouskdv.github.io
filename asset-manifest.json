@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a393d9f.chunk.css",
-    "main.js": "/static/js/main.855ef300.chunk.js",
-    "main.js.map": "/static/js/main.855ef300.chunk.js.map",
+    "main.css": "/static/css/main.a57768d3.chunk.css",
+    "main.js": "/static/js/main.1ac99217.chunk.js",
+    "main.js.map": "/static/js/main.1ac99217.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d32b1543.js",
     "runtime-main.js.map": "/static/js/runtime-main.d32b1543.js.map",
-    "static/js/2.17d89c37.chunk.js": "/static/js/2.17d89c37.chunk.js",
-    "static/js/2.17d89c37.chunk.js.map": "/static/js/2.17d89c37.chunk.js.map",
+    "static/js/2.27227fa1.chunk.js": "/static/js/2.27227fa1.chunk.js",
+    "static/js/2.27227fa1.chunk.js.map": "/static/js/2.27227fa1.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.9a393d9f.chunk.css.map": "/static/css/main.9a393d9f.chunk.css.map",
-    "static/js/2.17d89c37.chunk.js.LICENSE.txt": "/static/js/2.17d89c37.chunk.js.LICENSE.txt",
-    "static/media/avalanche-avax-logo.e1fb45e8.png": "/static/media/avalanche-avax-logo.e1fb45e8.png"
+    "static/css/main.a57768d3.chunk.css.map": "/static/css/main.a57768d3.chunk.css.map",
+    "static/js/2.27227fa1.chunk.js.LICENSE.txt": "/static/js/2.27227fa1.chunk.js.LICENSE.txt",
+    "static/media/Twitter_Bird.d2b69108.svg": "/static/media/Twitter_Bird.d2b69108.svg",
+    "static/media/avalanche-avax-logo.e1fb45e8.png": "/static/media/avalanche-avax-logo.e1fb45e8.png",
+    "static/media/discord.0c4e6f7807004021f03d2faf781bd16e.0c4e6f78.svg": "/static/media/discord.0c4e6f7807004021f03d2faf781bd16e.0c4e6f78.svg",
+    "static/media/website-logo.41ddfcf1.png": "/static/media/website-logo.41ddfcf1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d32b1543.js",
-    "static/js/2.17d89c37.chunk.js",
-    "static/css/main.9a393d9f.chunk.css",
-    "static/js/main.855ef300.chunk.js"
+    "static/js/2.27227fa1.chunk.js",
+    "static/css/main.a57768d3.chunk.css",
+    "static/js/main.1ac99217.chunk.js"
   ]
 }
